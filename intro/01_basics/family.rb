@@ -6,3 +6,8 @@ mary = 16
 
 # Your code goes here
 
+age_sum = mom + dad + john + mary
+result = mom + dad / john - mary
+
+puts "Sum of ages = " + age_sum
+puts "Result = " + result
